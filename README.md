@@ -1,4 +1,4 @@
-### Oii, SOU O BRAGA 😈
+### Oii, SOU O BRAGA 
 
 <div>
   <a href="https://github.com/bragadz">
