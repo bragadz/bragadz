@@ -10,7 +10,7 @@
 # <p align="center">👋 Hello, i'm BRAGA Welcome to my World </p>
 
 - 🌱 Currently, I'm on a journey of learning C, C++, C#, HTML, CSS, JS, and Python 🚀
-- 📫 How to reach me? You can DM me on [Discord](https://discordapp.com/users/1057518718378324009),[Telegram](https://t.me/Bragadzz) ; I'm always there and will respond promptly.
+- 📫 How to reach me? You can DM me on <a href="https://discord.gg/nevermiss" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>, <a href="https://instagram.com/bragadzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>,[Telegram](https://t.me/Bragadzz) ; I'm always there and will respond promptly.
 - 🎓 Student at PUC-MG, aspiring Full Stack Developer. 🌐
 - 🔗 Connect with me on [Instagram](https://www.instagram.com/bragadzz/)!
 
