@@ -10,7 +10,7 @@
 # <p align="center">👋 Hello, i'm BRAGA Welcome to my World </p>
 
 - 🌱 Currently, I'm on a journey of learning C, C++, C#, HTML, CSS, JS, and Python 🚀
-- 📫 How to reach me? You can DM me on <a href="https://discord.gg/nevermiss" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>, <a href="https://instagram.com/bragadzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>,[Telegram](https://t.me/Bragadzz) ; I'm always there and will respond promptly.
+- 📫 How to reach me? You can DM me on [Discord](https://discordapp.com/users/1057518718378324009),[Telegram](https://t.me/Bragadzz) ; I'm always there and will respond promptly.
 - 🎓 Student at PUC-MG, aspiring Full Stack Developer. 🌐
 - 🔗 Connect with me on [Instagram](https://www.instagram.com/bragadzz/)!
 
@@ -19,13 +19,5 @@
 <p align="center">
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=3163eqbhk34w56axibxhtwbk7jf4&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=4d9aff&bar_color_cover=true" alt="Spotify GitHub Profile">
 </p>
-  
-  ##
- 
-<div>
-  <a href="https://instagram.com/bragadzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/nevermiss" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:arthur.bracarvalho123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
