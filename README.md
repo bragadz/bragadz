@@ -20,4 +20,4 @@
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=3163eqbhk34w56axibxhtwbk7jf4&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=4d9aff&bar_color_cover=true" alt="Spotify GitHub Profile">
 </p>
 
-<p align="center"> ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg) </p>
+# <p align="center"> ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg) </p>
