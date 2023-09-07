@@ -1,15 +1,26 @@
 ### Hello, i'm BRAGA Welcome to my World
 
-<div>
-  <a href="https://github.com/bragadz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bragadz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+# 📊 GitHub Stats
+| GitHub Stats | GitHub Streak |
+|--------------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LSierra1&theme=radical&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LSierra1&theme=radical&hide_border=false) |
+
+| Top Languages | GitHub Profile Card |
+|---------------|---------------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LSierra1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Profile Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LSierra1&theme=radical) |
+
+# <p align="center">👋 Hi, I’m Braga </p>
+
+- 🌱 Currently, I'm on a journey of learning C, C++, C#, HTML, CSS, JS, and Python 🚀
+- 📫 How to reach me? You can DM me on [Discord](https://discordapp.com/users/1057518718378324009),[Telegram](https://t.me/Bragadzz) ; I'm always there and will respond promptly.
+- 🎓 Student at PUC-MG, aspiring Full Stack Developer. 🌐
+- 🔗 Connect with me on [Instagram](https://www.instagram.com/bragadzz/)!
+
+##
+
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=3163eqbhk34w56axibxhtwbk7jf4&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=4d9aff&bar_color_cover=true" alt="Spotify GitHub Profile">
+</p>
   
   ##
  
