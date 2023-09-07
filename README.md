@@ -17,7 +17,7 @@
 ##
 
 <p align="center">
-    <img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=ku3g4wazv40kuhzwmzezbgy4e&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ku3g4wazv40kuhzwmzezbgy4e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=3163eqbhk34w56axibxhtwbk7jf4&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=4d9aff&bar_color_cover=true" alt="Spotify GitHub Profile">
 </p>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
