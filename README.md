@@ -22,6 +22,4 @@
     </a>
 </p>
 
-![Snake animation](https://github.com/bragadz/bragadz/blob/output/github-contribution-grid-snake.svg)
-
 ![Profile views](https://komarev.com/ghpvc/?username=bragadz&label=PROFILE+VIEWS) [![Repos Badge](https://badges.pufler.dev/repos/bagadz)](https://badges.pufler.dev)
