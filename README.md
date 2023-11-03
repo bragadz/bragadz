@@ -22,4 +22,6 @@
     </a>
 </p>
 
+<p align="center">
 ![Profile views](https://komarev.com/ghpvc/?username=bragadz&label=PROFILE+VIEWS) [![Repos Badge](https://badges.pufler.dev/repos/bagadz)](https://badges.pufler.dev)
+</p>
