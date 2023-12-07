@@ -9,7 +9,7 @@
 
 # <p align="center">👋 Hello, i'm BRAGA Welcome to my portfolio </p>
 
-- 🌱 Currently, I'm on a journey of learning C, C++, C#, HTML, CSS, JS, and Python 🚀
+- 🌱 Currently, I'm on a journey of learning C, C++, C#, HTML, CSS, JS, and Java 🚀
 - 📫 How to reach me? You can DM me on [Discord](https://discordapp.com/users/1057518718378324009),[Telegram](https://t.me/Bragadzz) ; I'm always there and will respond promptly.
 - 🎓 Student at PUC-MG, aspiring Full Stack Developer. 🌐
 - 🔗 Connect with me on [Instagram](https://www.instagram.com/bragadzz/)!
