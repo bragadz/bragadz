@@ -25,4 +25,5 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=bragadz&label=PROFILE+VIEWS">
     <a href="https://badges.pufler.dev/repos/bagadz"><img src="https://badges.pufler.dev/repos/bagadz"></a>
+    [![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev)
 </p>
