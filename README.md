@@ -5,6 +5,8 @@
 - 🎓 Student at PUC-MG, aspiring Full Stack Developer. 🌐
 - 🔗 Connect with me on [Instagram](https://www.instagram.com/bragadzz/)!
 
+##
+
 # ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀📊 GitHub Stats
 | GitHub Stats | GitHub Streak |
 |--------------|---------------|
