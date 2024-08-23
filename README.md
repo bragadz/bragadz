@@ -16,7 +16,8 @@
 
 ##
 
-    [![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ku3g4wazv40kuhzwmzezbgy4e&redirect=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ku3g4wazv40kuhzwmzezbgy4e&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)
+    ![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ku3g4wazv40kuhzwmzezbgy4e&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)
+
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=bragadz&label=PROFILE+VIEWS">
