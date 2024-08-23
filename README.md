@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=ku3g4wazv40kuhzwmzezbgy4e&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=ku3g4wazv40kuhzwmzezbgy4e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Badge">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ku3g4wazv40kuhzwmzezbgy4e&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false">
     </a>
 </p>
 
