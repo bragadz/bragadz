@@ -22,9 +22,9 @@
     </a>
 </p>
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arthur-braga-45a595268" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/arthur-braga-45a595268?trk=profile-badge">Arthur Braga</a></div>
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=bragadzz&label=PROFILE+VIEWS">
     <a href="https://badges.pufler.dev/repos/bragadzz"><img src="https://badges.pufler.dev/repos/bragadzz"></a>
 </p>
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arthur-braga-45a595268" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/arthur-braga-45a595268?trk=profile-badge">Arthur Braga</a></div>
