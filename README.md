@@ -18,13 +18,7 @@
 
 <p align="center">
     <a href="https://br.linkedin.com/in/arthur-braga-45a595268?trk=profile-badge">
-        <img src="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arthur-braga-45a595268" data-version="v1"><a class="badge-base__link LI-simple-link">
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=ku3g4wazv40kuhzwmzezbgy4e&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ku3g4wazv40kuhzwmzezbgy4e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+        <img src="https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico" alt="LinkedIn Profile" style="width:100px;height:100px;">
     </a>
 </p>
 
