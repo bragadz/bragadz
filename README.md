@@ -17,8 +17,8 @@
 ##
 
 <p align="center">
-    <a href="https://br.linkedin.com/in/arthur-braga-45a595268?trk=profile-badge">
-        <img src="https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico" alt="LinkedIn Profile" style="width:100px;height:100px;">
+    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=ku3g4wazv40kuhzwmzezbgy4e&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ku3g4wazv40kuhzwmzezbgy4e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
     </a>
 </p>
 
