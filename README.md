@@ -17,12 +17,6 @@
 ##
 
 <p align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=ku3g4wazv40kuhzwmzezbgy4e&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ku3g4wazv40kuhzwmzezbgy4e&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-    </a>
-</p>
-
-<p align="center">
     <img src="https://komarev.com/ghpvc/?username=bragadz&label=PROFILE+VIEWS">
-    <a href="https://badges.pufler.dev/repos/bragadz"><img src="https://badges.pufler.dev/repos/bragadzz"></a>
+    <a href="https://badges.pufler.dev/repos/bragadz"><img src="https://badges.pufler.dev/repos/bragadz"></a>
 </p>
